@@ -1,4 +1,3 @@
 paragraphSelector() {
-  return
-  $('p')
+  return $('p')
 }
